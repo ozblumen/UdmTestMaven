@@ -20,5 +20,11 @@
     <artifactId>maven-plugin</artifactId>
     <version>1.498</version>
   </dependency>
+         
+           <dependency>
+    <groupId>org.apache.zookeeper</groupId>
+    <artifactId>zookeeper</artifactId>
+    <version>3.4.9</version>
+  </dependency>
 </dependencies>
 </project>
