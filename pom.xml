@@ -10,9 +10,9 @@
 
 <dependencies>
   <dependency>
-    <groupId>org.apache.zookeeper</groupId>
-    <artifactId>zookeeper</artifactId>
-    <version>3.4.9</version>
+    <groupId>org.jenkins-ci.plugins</groupId>
+    <artifactId>logstash</artifactId>
+    <version>0.7.3</version>
   </dependency>
 </dependencies>
 </project>
