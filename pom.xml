@@ -14,5 +14,11 @@
     <artifactId>logstash</artifactId>
     <version>0.7.3</version>
   </dependency>
+         
+    <dependency>
+    <groupId>org.jenkins-ci.main</groupId>
+    <artifactId>maven-plugin</artifactId>
+    <version>1.498</version>
+  </dependency>
 </dependencies>
 </project>
