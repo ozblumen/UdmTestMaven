@@ -9,6 +9,7 @@
     "vulnerableCheckRunConclusionLevel": "failure",
     "displayMode": "diff"
   },
+  
   "issueSettings": {
     "minSeverityLevel": "LOW",
     "issueType": "DEPENDENCY"
