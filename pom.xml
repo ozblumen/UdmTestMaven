@@ -10,42 +10,13 @@
 
          
 <dependencies>
-  <dependency>
-    <groupId>org.jenkins-ci.plugins</groupId>
-    <artifactId>logstash</artifactId>
-    <version>0.7.3</version>
-  </dependency>
-         
-    <dependency>
-    <groupId>org.jenkins-ci.main</groupId>
-    <artifactId>maven-plugin</artifactId>
-    <version>1.498</version>
-  </dependency>
-         
+
    <dependency>
     <groupId>org.apache.zookeeper</groupId>
     <artifactId>zookeeper</artifactId>
     <version>3.4.9</version>
   </dependency>
          
-  <dependency>
-    <groupId>org.apache.nutch</groupId>
-    <artifactId>nutch</artifactId>
-    <version>1.13</version>
-  </dependency>
-         
-         
-    <dependency>
-    <groupId>com.vaadin</groupId>
-    <artifactId>flow-server</artifactId>
-    <version>5.0.2</version>
-  </dependency>
-         
-<dependency>
-<groupId>org.apache.rocketmq</groupId>
-<artifactId>rocketmq-broker</artifactId>
-<version>4.6.0</version>
-</dependency>
 
       
          
