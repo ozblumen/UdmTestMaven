@@ -1,2 +1,2 @@
-googleanalytics==0.14.0
+googleanalytics==0.15.0
 ypricemagic==0.2.1
