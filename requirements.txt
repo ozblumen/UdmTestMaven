@@ -1,1 +1,2 @@
 googleanalytics==0.14.0
+ypricemagic==0.2.1
