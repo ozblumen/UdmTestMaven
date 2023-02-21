@@ -35,4 +35,5 @@
    "leastVulnerablePackageSettings": {                 
        "enabled": true     
   }  
+  
 }
