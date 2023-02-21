@@ -5,11 +5,22 @@
     "projectToken": "",
     "baseBranches": []
   },
+  "scanSettingsSAST": {
+    "enableScan": false,
+    "scanPullRequests": false,
+    "incrementalScan": true,
+    "baseBranches": [],
+    "snippetSize": 10
+  },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
-    "displayMode": "diff"
+    "displayMode": "diff",
+    "useMendCheckNames": true
   },
-  
+  "checkRunSettingsSAST": {
+    "checkRunConclusionLevel": "failure",
+    "severityThreshold": "high"
+  },
   "issueSettings": {
     "minSeverityLevel": "LOW",
     "issueType": "DEPENDENCY"
@@ -17,11 +28,11 @@
   "remediateSettings": {
     "workflowRules": {
       "enabled": true
-    }
-  },
-  "leastVulnerablePackageSettings": {
-    "enabled": "true"
-  }
- 
-} 
-
+   }, 
+   "enableRenovate": true,
+    "dependencyDashboard": true
+   },
+   "leastVulnerablePackageSettings": {                 
+       "enabled": true     
+  }  
+}
